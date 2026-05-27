@@ -38,22 +38,21 @@ AWS-hosted-Virtual-Classroom-and-Learning-Platform/
 
 ---
 
-
 ---
 
 ## Screen Shots
 
-### Courses Page:
-![Courses Page](Final_Result/Courses_Page.png)
-
-### Landing Page:
+### 1. Landing Page
 ![Landing Page](Final_Result/Landing_Page.png)
 
-### Login Page:
+### 2. Registration Page
+![Registration Page](Final_Result/Registration.png)
+
+### 3. Login Page
 ![Login Page](Final_Result/Login_Page.png)
 
-### Registration Page:
-![Registration Page](Final_Result/Registration.png)
+### 4. Courses Page
+![Courses Page](Final_Result/Courses_Page.png)
 
 ---
 
