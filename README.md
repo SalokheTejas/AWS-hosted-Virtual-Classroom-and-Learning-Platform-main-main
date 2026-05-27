@@ -41,17 +41,19 @@ AWS-hosted-Virtual-Classroom-and-Learning-Platform/
 ## Screen Shots
 
 ### Home Page:
-![Home Page](https://drive.google.com/uc?export=view&id=1sBl4w-NyDVD9nvIy2aV10P1J9HCEyS1l)
+![Home Page](Final_Result/Home_Page.png)
 
 ### Registration Page:
-![Registration Page](https://drive.google.com/uc?export=view&id=16kp8Leto7fludFmGJny8gs14olkp8QS_)
+![Registration Page](Final_Result/Registration_Page.png)
 
 ### Login Page:
-![Login Page](https://drive.google.com/uc?export=view&id=1F2yvH4nqio_dg8v8D1vc1Q8sknttmOb9)
+![Login Page](Final_Result/Login_Page.png)
 
 ### Content Page:
-![Content Page](https://drive.google.com/uc?export=view&id=1r4wsKWqOZUvhrvEG2axeuZrGIdHhnYtO)
+![Content Page](Final_Result/Content_Page.png)
 
+### Landing Page:
+![Landing Page](Final_Result/Landing_Page.png)
 
 ---
 
