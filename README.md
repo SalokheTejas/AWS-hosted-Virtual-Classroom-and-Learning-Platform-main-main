@@ -41,10 +41,10 @@ AWS-hosted-Virtual-Classroom-and-Learning-Platform/
 ## Screen Shots
 
 ### Home Page:
-![Home Page](Final_Result/Home_Page.png)
+![Landing Page](Final_Result/Landing_Page.png)
 
 ### Registration Page:
-![Registration Page](Final_Result/Registration_Page.png)
+![Registration Page](Final_Result/Registration.png)
 
 ### Login Page:
 ![Login Page](Final_Result/Login_Page.png)
@@ -54,6 +54,23 @@ AWS-hosted-Virtual-Classroom-and-Learning-Platform/
 
 ### Landing Page:
 ![Landing Page](Final_Result/Landing_Page.png)
+
+---
+---
+
+## Screen Shots
+
+### Courses Page:
+![Courses Page](Final_Result/Courses_Page.png)
+
+### Landing Page:
+![Landing Page](Final_Result/Landing_Page.png)
+
+### Login Page:
+![Login Page](Final_Result/Login_Page.png)
+
+### Registration Page:
+![Registration Page](Final_Result/Registration.png)
 
 ---
 
